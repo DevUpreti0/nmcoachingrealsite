@@ -305,7 +305,7 @@ body.dark-theme {
 }
 
 .home__img {
-  width: 240px;
+  width: 190px;
 }
 
 .home__img-bg {
@@ -971,7 +971,7 @@ body.dark-theme {
     margin-right: var(--mb-1);
   }
   .home__img-bg {
-    width: 220px;
+    width: 190px;
   }
   .home__title {
     font-size: var(--h1-font-size);
